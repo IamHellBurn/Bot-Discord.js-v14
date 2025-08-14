@@ -50,8 +50,8 @@ bot-discord/
 ### 2. Instalação
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/bot-discord.git
-cd bot-discord
+git clone https://github.com/IamHellBurn/Bot-Discord.js-v14.git
+cd Bot-Discord
 
 # Instale as dependências
 npm install

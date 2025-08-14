@@ -49,31 +49,10 @@ bot-discord/
 ├── 📁 commands/                # Comandos prefix
 │   ├── 📁 general/
 │   │   └── ping.js
-│   ├── 📁 utility/
-│   │   └── help.js
-│   ├── 📁 admin/
-│   │   ├── reload.js
-│   │   ├── stats.js
-│   │   └── shard.js
-│   └── 📁 moderation/
-│       ├── clean.js
-│       ├── warn.js
-│       ├── warnings.js
-│       └── clearwarnings.js
 └── 📁 slashCommands/           # Slash commands
     ├── 📁 general/
-    │   └── ping.js
-    ├── 📁 utility/
-    │   └── help.js
-    ├── 📁 admin/
-    │   ├── reload.js
-    │   ├── stats.js
-    │   └── shard.js
-    └── 📁 moderation/
-        ├── clean.js
-        ├── warn.js
-        ├── warnings.js
-        └── clearwarnings.js
+        └── ping.js
+
 ```
 
 ## 🚀 Instalação e Configuração

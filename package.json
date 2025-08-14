@@ -1,0 +1,31 @@
+{
+  "name": "discord-bot-complete",
+  "version": "1.0.0",
+  "description": "Bot Discord.js completo com sharding, comandos prefix e slash, sistema de moderação",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js",
+    "deploy": "node deploy.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "discord.js",
+    "moderation",
+    "javascript"
+  ],
+  "author": "Seu Nome",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "engines": {
+    "node": ">=16.11.0"
+  }
+}

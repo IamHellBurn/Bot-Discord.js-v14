@@ -209,8 +209,7 @@ node --inspect index.js
 
 ## 📝 Changelog
 
-### v1.0.0 (2024-01-XX)
-- ✅ Sistema de sharding completo
+### v1.0.0 (14-08-2025)
 - ✅ Comandos prefix e slash
 - ✅ Analytics e logging
 

@@ -121,13 +121,6 @@ npm run dev
 | `!ping` | `/ping` | Mostra latência do bot |
 
 
-## ⚙️ Sistema de Advertências
-
-### Ações Automáticas:
-- **3 advertências**: Timeout de 10 minutos
-- **5 advertências**: Kick do servidor
-- **7+ advertências**: Ban permanente
-
 ## 🔧 Configuração Avançada
 
 ### Permissões Recomendadas:
@@ -174,12 +167,7 @@ SUCCESS_COLOR=#57f287
 ### Erros de permissão:
 1. Verifique se o bot tem as permissões necessárias
 2. Confirme a hierarquia de cargos
-3. Use `!stats` para verificar permissões
-
-### Problemas com sharding:
-1. Para bots pequenos (<1000 servidores), remova o sharding
-2. Verifique logs no console para erros específicos
-3. Use `!shard info` para diagnosticar problemas
+3. Use `!ping` para verificar permissões
 
 ## 📊 Monitoramento
 
